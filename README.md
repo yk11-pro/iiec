@@ -8,7 +8,7 @@ under the mentorship of
 - pyttsx3             //To convert text to audio
 
 # Configuring Software
-   But Obviously, system should have command prompt/anaconda installed in
+   But Obviously, system should have command prompt/anaconda installed
 - Install libraries
   ```
   pip3 install pyttsx3
