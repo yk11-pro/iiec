@@ -13,7 +13,7 @@ under the mentorship of
   ```
   pip3 install pyttsx3
   ```
-  os module is present in all systems by default
+  os module is present in all systems by default //
 
-- Set path of the softwares you want to open
+- Set path of the softwares you want to open.
 # And Now we are good to go...
