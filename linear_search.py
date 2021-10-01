@@ -20,6 +20,7 @@ key = 7
   
 n = len(list1)  
 res = linear_Search(list1, n, key)  
+#checking the base case
 if(res == -1):  
     print("Element not found")  
 else:  
