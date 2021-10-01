@@ -20,7 +20,7 @@ under the mentorship of
   ```
   os module is present in all systems by default //
 
-- Set path of the softwares you want to open.
+- Set path of the softwares you want to open. //to access it properly 
 # And Now we are good to go...
 
 #special mention of Mr. Atul for contributing nad maintaing this project
