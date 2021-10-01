@@ -23,5 +23,6 @@ res = linear_Search(list1, n, key)
 #checking the base case
 if(res == -1):  
     print("Element not found")  
+    //for cases in which no ans is posible
 else:  
     print("Element found at index: ", res)  
