@@ -86,21 +86,21 @@ def verify():
 
 
  
-def check():
-  while 1:
-            q= input()
-            if ("yes" in q) or ("YES" in q) or ("Yes" in q):
-               pyttsx3.speak("you are quite intelligent")
-               engine.runAndWait()
-               start()
-               break
-            elif ("no" in q) or ("NO" in q) or ("No" in q):
-               pyttsx3.speak("no problem")
-               seekh()
-               start()
-            elif ("out" in q) or ("exit" in q) or ("quit" in q) or ("leave" in q):
-               pyttsx3.speak("goodbye")
-               break
-            else:
-               pyttsx3.speak("please enter yes or no")
+# def check():
+#   while 1:
+#             q= input()
+#             if ("yes" in q) or ("YES" in q) or ("Yes" in q):
+#                pyttsx3.speak("you are quite intelligent")
+#                engine.runAndWait()
+#                start()
+#                break
+#             elif ("no" in q) or ("NO" in q) or ("No" in q):
+#                pyttsx3.speak("no problem")
+#                seekh()
+#                start()
+#             elif ("out" in q) or ("exit" in q) or ("quit" in q) or ("leave" in q):
+#                pyttsx3.speak("goodbye")
+#                break
+#             else:
+#                pyttsx3.speak("please enter yes or no")
 
