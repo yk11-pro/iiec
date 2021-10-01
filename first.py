@@ -5,6 +5,7 @@ import pyttsx3
 import sys
 engine = pyttsx3.init()
 
+#step 2 : we are starting the main code part for our code
 r = sr.Recognizer()
 def seekh():
   pyttsx3.speak("let me explain about its working") 
