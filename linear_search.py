@@ -8,8 +8,10 @@ def linear_Search(list1, n, key):
     return -1  
   
   
-list1 = [1 ,3, 5, 4, 7, 9]  
+list1 = [1 ,3, 5, 4, 7, 9] 
+//initialising an array
 key = 7  
+//initialising an key
   
 n = len(list1)  
 res = linear_Search(list1, n, key)  
