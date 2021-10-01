@@ -4,8 +4,8 @@ under the mentorship of
 
 
 # Modules used
-- os                  //To run different programs
-- pyttsx3             //To convert text to audio
+- os                  //To run the different programs
+- pyttsx3             //To convert text to the audio
 
 # Configuring Software
    But Obviously, system should have command prompt/anaconda installed in
