@@ -25,5 +25,5 @@ under the mentorship of
 
 #special mention of Mr. Atul for contributing nad maintaing this project
 =======
-python is here you can use it anywhere
+python is here you can use it anywhere to build to make amazing project
 
