@@ -89,6 +89,7 @@ def verify():
 def check():
   while 1:
             q= input()
+            // please enter input
             if ("yes" in q) or ("YES" in q) or ("Yes" in q):
                pyttsx3.speak("you are quite intelligent")
                engine.runAndWait()
