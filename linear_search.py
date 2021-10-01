@@ -1,3 +1,4 @@
+#code for linear_search complexity O(n)
 def linear_Search(list1, n, key):  
   
     # Searching list1 sequentially  
