@@ -4,7 +4,7 @@ under the mentorship of
 
 
 # Modules used
-- os                  //To run different programs
+- os                  //To run the different programs
 - pyttsx3             //To convert text to the audio
 
 # Configuring Software
