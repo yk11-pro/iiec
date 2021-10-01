@@ -32,7 +32,8 @@ n = 45
   
 # Function call   
 result = binary_search(list1, n)  
-  
+ 
+#final step for verification of code
 if result != -1:  
     print("Element is present at index", str(result))  
 else:  
