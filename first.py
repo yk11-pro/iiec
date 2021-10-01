@@ -17,7 +17,7 @@ def seekh():
   pyttsx3.speak("I hope that you now understand how to use this.")
   pyttsx3.speak("I am waiting for your wishes")
   
-#this is a start button
+#this is not a start button
 def start():
   print("chat with me with your requirements : "  , end='')
   while 1:
