@@ -85,7 +85,7 @@ def verify():
     
 
 
- 
+#step 5: for checking purpose 
 def check():
   while 1:
             q= input()
@@ -107,7 +107,7 @@ def check():
 
 
 
-
+#step 6: speaking step
 pyttsx3.speak("Welcome")
 engine.runAndWait()
 pyttsx3.speak("please enter password")
