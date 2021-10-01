@@ -62,6 +62,7 @@ def start():
 
 def verify():
   print("enter your password ")
+  //Please enter your password.
   i=3
   while 1:
             s=input()
