@@ -4,11 +4,16 @@ under the mentorship of
 
 
 # Modules used
+
+- os                  //To run the different programs
+- pyttsx3             //To convert the input text to the audio signal
+=======
 - os                  //To run the the different programs
 - pyttsx3             //To convert text to the audio
 
+
 # Configuring Software
-   But Obviously, system should have command prompt/anaconda installed in
+   Prerequiste system should have command prompt/anaconda installed in
 - Install libraries
   ```
   pip3 install pyttsx3
