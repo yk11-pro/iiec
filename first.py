@@ -60,7 +60,7 @@ def start():
                pyttsx3.speak("please enter something valid ")
 
 
-
+#step 4: last step i.e. verification step
 def verify():
   print("enter your password ")
   i=3
