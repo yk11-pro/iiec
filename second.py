@@ -59,7 +59,7 @@ def start():
                pyttsx3.speak("please enter something valid ")
 
 
-
+#from here the verification step starts
 def verify():
   print("enter your password ")
   //Please enter your password.
