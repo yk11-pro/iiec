@@ -7,7 +7,7 @@ def linear_Search(list1, n, key):
             return i  
     return -1  
   
-
+#added a few lines
   
 list1 = [1 ,3, 5, 4, 7, 9] 
 //initialising an array
