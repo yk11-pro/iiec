@@ -4,7 +4,7 @@ import os
 import pyttsx3
 import sys
 engine = pyttsx3.init()
-
+#this is something new
 r = sr.Recognizer()
 def seekh():
   pyttsx3.speak("let me explain about its working") 
