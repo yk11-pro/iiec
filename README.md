@@ -16,7 +16,7 @@ under the mentorship of
    Prerequiste system should have command prompt/anaconda installed in
 - Install libraries
   ```
-  pip3 install pyttsx3
+  pip3 install pyttsx3 and
   ```
   os module is present in all systems by default //
 
