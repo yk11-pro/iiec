@@ -1,11 +1,11 @@
-#step 1 : we are importing the necessary library
+#step 1 : we are importing necessary library here
 import speech_recognition as sr
 import os
 import pyttsx3
 import sys
 engine = pyttsx3.init()
 
-#step 2 : we are starting the main code part for our code
+#step 2 : we are starting main code part for our code
 r = sr.Recognizer()
 def seekh():
   pyttsx3.speak("let me explain about its working") 
