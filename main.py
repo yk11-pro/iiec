@@ -15,7 +15,7 @@ class MainWindow(QMainWindow):
 		super(MainWindow, self).__init__(*args, **kwargs)
 
 
-		# creating a QWebEngineView
+		# creating QWebEngineView
 		self.browser = QWebEngineView()
 
 		# setting default browser url as google
