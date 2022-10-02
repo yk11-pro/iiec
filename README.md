@@ -23,7 +23,4 @@ under the mentorship of
 - Set path of the softwares you want to open. //to access it properly 
 # And Now we are good to go...
 
-#special mention of Mr. Atul for contributing nad maintaing this project
-=======
-python is here you can use it anywhere to build to make amazing project
 
