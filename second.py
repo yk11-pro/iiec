@@ -85,7 +85,7 @@ def verify():
     
 
 
- 
+# check() function 
 # def check():
 #   while 1:
 #             q= input()
