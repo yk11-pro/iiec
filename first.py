@@ -1,4 +1,4 @@
-#step 1 : we are importing necessary library here
+#step 1 : we are importing necessary library 
 import speech_recognition as sr
 import os
 import pyttsx3
