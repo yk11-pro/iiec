@@ -1,3 +1,4 @@
+#code there with steps
 #step 1 : we are importing the necessary library
 import speech_recognition as sr
 import os
