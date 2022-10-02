@@ -1,5 +1,5 @@
 # Python Specialist towards Flask 
-under the mentorship of
+Under the mentorship of
 ## Mr.Vimal Daga Sir
 
 
