@@ -148,8 +148,8 @@ app = QApplication(sys.argv)
 # setting name to the application
 app.setApplicationName("Geek Browser")
 
-# creating a main window object
+# creating main window object
 window = MainWindow()
 
-# loop
+# looping
 app.exec_()
